@@ -1,0 +1,3 @@
+/home/tom/Documents/GitHub/ese5190-2022-lab2b-esp/code/flashlight/build/pioasm/CMakeFiles/pioasm.dir
+/home/tom/Documents/GitHub/ese5190-2022-lab2b-esp/code/flashlight/build/pioasm/CMakeFiles/edit_cache.dir
+/home/tom/Documents/GitHub/ese5190-2022-lab2b-esp/code/flashlight/build/pioasm/CMakeFiles/rebuild_cache.dir

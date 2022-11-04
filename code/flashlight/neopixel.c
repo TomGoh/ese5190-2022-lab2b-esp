@@ -1,5 +1,6 @@
 #include "hardware/pio.h"
 #include "ws2812.pio.h" 
+#include "boards/adafruit_qtpy_rp2040.h"
 
 #define PIO         pio0
 #define SM          0
